@@ -25,7 +25,7 @@ ul {
 
 .header {
   background: #1F2937;
-  padding: 10px 100px;
+  padding: 14px 200px;
 }
 
 .logo {
@@ -74,7 +74,7 @@ ul {
 
 .info {
   text-align: center;
-  padding: 30px 100px;
+  padding: 30px 200px;
   margin-bottom: 40px;
 }
 
@@ -113,7 +113,7 @@ ul {
 .quote {
   font-size: 36px;
   font-style: italic;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 .signed {
@@ -128,7 +128,7 @@ ul {
   justify-content: space-between;
   align-items: center;
   margin: 80px 100px;
-  padding: 50px 100px;
+  padding: 50px 200px;
   background-color: #3882F6;
   border-radius: 5px;
   color: #F9FAF8;
